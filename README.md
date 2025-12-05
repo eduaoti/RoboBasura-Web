@@ -168,7 +168,7 @@ La monetización no afecta la experiencia educativa ni la progresión.
 | Windows (.zip) | 🚧 https://drive.google.com/file/d/1LssY0N63h9mjDa3Tg4vEO1j2-Chw1ju2/view?usp=sharing | — |
 | Android (.apk) | 🚧 En progreso | — |
 | WebGL (Navegador) | 🚧 https://eduaoti.github.io/RoboBasura-Web/ -- https://eduaoti.itch.io/robobasura | — |
-| Informe del Videojuego (PDF / Docs) | ✔ No Disponible | — |
+| Informe del Videojuego (PDF / Docs) | ✔ Disponible https://drive.google.com/file/d/1XNgKPSaCh0ieZIBYM19xn5H3C1eJJBUx/view?usp=sharing | — |
 
 ---
 
